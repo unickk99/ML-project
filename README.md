@@ -1,2 +1,2 @@
-## end to end ML porject.
+## End to End ML porject.
 
